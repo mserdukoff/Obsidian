@@ -1,0 +1,234 @@
+{
+  "main": {
+    "id": "16506eb6a159f9eb",
+    "type": "split",
+    "children": [
+      {
+        "id": "ac0c00f0a61dc2f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0fa66a76ccdb0a92",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "d595b0068b6364fc",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.12"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.12"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fe35bff158c569ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "fd53bca9408d9354",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1d35066ddf47e395",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f97c04ef481225e6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "6285b339c4da7c6f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e0f11b19628306ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "86b91caacb8df26b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "45e6cd094c27996c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Untitled.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Untitled"
+            }
+          },
+          {
+            "id": "b8d0b9f5c34cdfe7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Untitled.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Untitled"
+            }
+          },
+          {
+            "id": "cbfd077316fc257f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "2b371d211601ea9f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Untitled.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Untitled"
+            }
+          },
+          {
+            "id": "2dfd0a8203b6686f",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Day Planner Timeline"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "daily-notes:Open today's daily note": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-day-planner:Timeline": false
+    }
+  },
+  "active": "1d35066ddf47e395",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "2025-09-01.md",
+    "Untitled.canvas",
+    "Daily/2024-08-28.md",
+    "Daily/2024-07-28.md",
+    "Daily/2024-07-21.md",
+    "Daily/2024-07-20.md",
+    "Daily/2024-06-23.md",
+    "2024-06-22.md",
+    "Daily/2024-07-14.md",
+    "Daily/2024-07-13.md",
+    "Daily/2024-07-15.md",
+    "Daily/2024-07-10.md",
+    "Daily/2024-07-12.md",
+    "Daily/2024-07-09.md",
+    "Daily/2024-07-11.md",
+    "Daily/2024-07-08.md",
+    "Daily/2024-07-07.md",
+    "Daily/2024-06-30.md",
+    "Daily/2024-07-01.md",
+    "Daily/2024-07-02.md",
+    "Daily/2024-07-06.md",
+    "Daily/2024-07-05.md",
+    "Daily/2024-07-04.md",
+    "Daily/2024-07-03.md",
+    "Daily/2024-06-29.md",
+    "Daily/2024-06-28.md",
+    "Assets/photo_2024-06-06_13-33-09.jpg",
+    "Assets/photo_2024-06-06_13-33-01.jpg",
+    "Career and Personal Work",
+    "Assets/RESUME 2.pdf",
+    "Assets/RESUME 1.pdf",
+    "Assets/RESUME.pdf",
+    "Assets/Better Format Resume.docx",
+    "Archive",
+    "Job Search",
+    "Hime",
+    "Daily",
+    "Assets"
+  ]
+}
