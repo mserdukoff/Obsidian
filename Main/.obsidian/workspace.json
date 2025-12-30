@@ -11,22 +11,28 @@
             "id": "0fa66a76ccdb0a92",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Career and Personal Work/Web Development Roadmap.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Web Development Roadmap"
             }
           },
           {
-            "id": "d595b0068b6364fc",
+            "id": "8b4dfef3d4bff011",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.9.12"
+                "file": "Grammario/Plans for Grammario 1-1-2026.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.12"
+              "icon": "lucide-file",
+              "title": "Plans for Grammario 1-1-2026"
             }
           }
         ],
@@ -175,7 +181,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,9 +196,12 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "1d35066ddf47e395",
+  "active": "8b4dfef3d4bff011",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Career and Personal Work/Web Development Roadmap.md",
+    "Grammario/Plans for Grammario 1-1-2026.md",
+    "Grammario",
+    "Hime/Wheelbase Backend Old.md",
     "2025-09-01.md",
     "Untitled.canvas",
     "Daily/2024-08-28.md",
@@ -216,8 +226,6 @@
     "Daily/2024-07-05.md",
     "Daily/2024-07-04.md",
     "Daily/2024-07-03.md",
-    "Daily/2024-06-29.md",
-    "Daily/2024-06-28.md",
     "Assets/photo_2024-06-06_13-33-09.jpg",
     "Assets/photo_2024-06-06_13-33-01.jpg",
     "Career and Personal Work",
@@ -228,7 +236,6 @@
     "Archive",
     "Job Search",
     "Hime",
-    "Daily",
-    "Assets"
+    "Daily"
   ]
 }
