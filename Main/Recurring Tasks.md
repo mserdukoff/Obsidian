@@ -1,0 +1,7 @@
+- WickedSidekick
+- LeetCode
+- Wheelbase
+- Grammario [[Plans for Grammario 1-1-2026]]
+- Resume Tweaking/Job Hunting
+- Coursera Courses
+- Make reels for SyntaksLab
