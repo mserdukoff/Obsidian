@@ -50,10 +50,10 @@ Instance based learning learns by examples, then generalizes to new cases that i
 10. What is out-of-core learning? *Out of core learning is when the data is too large to fit into memory, so then it is batched into sections and fed into the model until all of the data has run out.*
 11. What type of learning algorithm relies on a similarity measure to make predictions?*Instance based learning algorithm.*
 12. What is the difference between a model parameter and a learning algorithm’s hyperparameter? *Model parameters are the values that a learning algorithm learns from the data in order to make predictions. Hyperparameters are the parameters of the model itself. For example, for a neural network the parameters are the weights and biases, whereas the hyperparameters are the number of neurons, layers, activation functions.*
-13. What do model-based learning algorithms search for? What is the most common strategy they use to succeed? How do they make predictions? 
-14. Can you name four of the main challenges in Machine Learning?
-15. If your model performs great on the training data but generalizes poorly to new instances, what is happening? Can you name three possible solutions?
-16. What is a test set and why would you want to use it?
-17. What is the purpose of a validation set?
-18. What can go wrong if you tune hyperparameters using the test set?
-19. What is repeated cross-validation and why would you prefer it to using a single validation set?
+13. What do model-based learning algorithms search for? What is the most common strategy they use to succeed? How do they make predictions?  *It searches for a model with parameters theta that can make good predictions. The most common strategy is to create a cost function and minimize it. They make predictions by applying the learned model to new data.*
+14. Can you name four of the main challenges in Machine Learning? *Insufficient quality of training data, nonrepresentitive training data, poor quality data, and irrelevant features.*
+15. If your model performs great on the training data but generalizes poorly to new instances, what is happening? Can you name three possible solutions? *This is called overfitting. This happens when the model is too complex given the amount and noisiness of the data. The solutions are: simplify the model, gather more data, reduce noise in the training data.*
+16. What is a test set and why would you want to use it? *The test set is a chunk of the data that the model has never seen before, and will only see once it it is already trained. Its purpose is to test the accuracy-generalization error rate-of the model.*
+17. What is the purpose of a validation set? *Its purpose is to tune model hyperparameters and select among different models with slightly different hyperparameters without touching the test set.*
+18. What can go wrong if you tune hyperparameters using the test set? *You leak information from the test set and get an overly optimistic estimate of performance.*
+19. What is repeated cross-validation and why would you prefer it to using a single validation set? *Repeated cross-validation runs cross-validation multiple times with different random splits and averages the results. You prefer it to a single validation set because it gives a more reliable, lower-variance estimate of performance and makes better use of limited data.*
