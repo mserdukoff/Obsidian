@@ -4,119 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "ac0c00f0a61dc2f4",
+        "id": "40a1dd4d89d751f5",
         "type": "tabs",
         "children": [
           {
-            "id": "3245b2145a83ab6e",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "aec0bfb9255a51d5",
+            "id": "77da5b92e2a490a8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recurring Tasks.md",
+                "file": "Grammario/Grammario Upgrade Interview Summarization.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Recurring Tasks"
+              "title": "Grammario Upgrade Interview Summarization"
             }
           },
           {
-            "id": "a140b07cdeb8658f",
+            "id": "1aaff488e512d2ba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Staff-level hiring manager Prompt.md",
+                "file": "Grammario/Grammario Observability.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Staff-level hiring manager Prompt"
-            }
-          },
-          {
-            "id": "15e122e655284460",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Study/Hands On Machine Learning with Scikit-Learn & TensorFlow/Chapter 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Chapter 1"
-            }
-          },
-          {
-            "id": "8fdf724172e8caad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Study/Hands On Machine Learning with Scikit-Learn & TensorFlow/Chapter 2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Chapter 2"
-            }
-          },
-          {
-            "id": "84e981fbf8a356db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Study/Hands On Machine Learning with Scikit-Learn & TensorFlow/Chapter 3.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Chapter 3"
-            }
-          },
-          {
-            "id": "5b8b2789e4318ae1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Grammario/Plans for Grammario 1-1-2026.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Plans for Grammario 1-1-2026"
-            }
-          },
-          {
-            "id": "0a0b3a7affae0c4e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Grammario/Grammario Performance and ML-NLP Feature Upgrade Implementation Details.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Grammario Performance and ML-NLP Feature Upgrade Implementation Details"
+              "title": "Grammario Observability"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -278,18 +198,21 @@
   },
   "active": "1d35066ddf47e395",
   "lastOpenFiles": [
-    "Grammario/Plans for Grammario 1-1-2026.md",
+    "Grammario/Grammario Observability.md",
+    "Grammario what to implement 4-8-25.md",
+    "Grammario/Grammario Upgrade Interview Summarization.md",
     "Grammario/Grammario Performance and ML-NLP Feature Upgrade Implementation Details.md",
-    "Study/Hands On Machine Learning with Scikit-Learn & TensorFlow/Chapter 2.md",
+    "Recurring Tasks.md",
+    "Grammario/Plans for Grammario 1-1-2026.md",
     "Study/Hands On Machine Learning with Scikit-Learn & TensorFlow/Chapter 3.md",
+    "Study/Hands On Machine Learning with Scikit-Learn & TensorFlow/Chapter 2.md",
     "Study/Hands On Machine Learning with Scikit-Learn & TensorFlow/Chapter 1.md",
+    "Staff-level hiring manager Prompt.md",
     "Career and Personal Work/website2.0.md",
     "Daily/2024-05-20.md",
     "Daily/2024-05-19.md",
     "Study/Hands On Machine Learning with Scikit-Learn & TensorFlow",
-    "Staff-level hiring manager Prompt.md",
     "Study",
-    "Recurring Tasks.md",
     "Career and Personal Work/Web Development Roadmap.md",
     "Grammario",
     "Hime/Wheelbase Backend Old.md",
@@ -305,9 +228,6 @@
     "Daily/2024-07-13.md",
     "Daily/2024-07-15.md",
     "Daily/2024-07-10.md",
-    "Daily/2024-07-12.md",
-    "Daily/2024-07-09.md",
-    "Daily/2024-07-11.md",
     "Assets/photo_2024-06-06_13-33-09.jpg",
     "Assets/photo_2024-06-06_13-33-01.jpg",
     "Career and Personal Work",

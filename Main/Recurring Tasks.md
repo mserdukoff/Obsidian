@@ -1,7 +1,7 @@
 - WickedSidekick
 - LeetCode
-- Wheelbase
-- Grammario [[Plans for Grammario 1-1-2026]]
-- Resume Tweaking/Job Hunting
+- Wheelbase — [[Wheelbase Backend]]
+- Grammario — [[Plans for Grammario 1-1-2026]]
+- Resume Tweaking/Job Hunting — [[Portfolio Project Prompt]]
 - Coursera Courses
 - Make reels for SyntaksLab

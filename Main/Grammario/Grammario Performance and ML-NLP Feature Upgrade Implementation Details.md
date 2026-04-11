@@ -1,5 +1,7 @@
 This document describes every change made to the Grammario codebase during the performance optimization and advanced ML/NLP feature upgrade. It is organized by phase, with exact file paths, code explanations, and architectural rationale.
 
+> Related: [[Plans for Grammario 1-1-2026]] | [[Grammario Observability]] | [[Grammario Upgrade Interview Summarization]]
+
   
 
 ---
